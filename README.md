@@ -16,24 +16,32 @@
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
 
-<!-- Skill Container -->
-<div style="display:flex;flex-direction:column">
-
-<!-- My skills displayed as a flexbox-->
+<!-- Skill Section -->
 <h2 style="color:#52a3ff">My Skills</h2>
-<div style="display:flex;gap:5px;justify-content:space-between;flex-wrap:wrap;padding-bottom:10px;margin-bottom:10px;">
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/rust.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/aws.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/docker.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/jenkins.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/kubernetes.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/terraform.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/postgresql.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/nodejs.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/ts.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/js.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/vuejs.svg"></div>
-<div><img style="min-width:64px;min-height:64px" src="./assets/icons/scss.svg"></div>
+
+<div style="display:flex;flex-direction:column;align-items:center;justify-content:center;">
+<!-- Skills as a table -->
+<div style="display:block;margin-right:auto;margin-left:auto;">
+<table>
+<tr>
+<td><img src="./assets/icons/rust.svg" alt="Rust icon" /></td>
+<td><img src="./assets/icons/aws.svg" alt="AWS icon" /></td>
+<td><img src="./assets/icons/docker.svg" alt="Docker icon" /></td>
+<td><img src="./assets/icons/jenkins.svg" alt="jenkins icon" /></td>
+</tr>
+<tr>
+<td><img src="./assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
+<td><img src="./assets/icons/terraform.svg" alt="terraform icon" /></td>
+<td><img src="./assets/icons/postgresql.svg" alt="postgresql icon" /></td>
+<td><img src="./assets/icons/nodejs.svg" alt="nodejs icon" /></td>
+</tr>
+<tr>
+<td><img src="./assets/icons/ts.svg" alt="typescript icon" /></td>
+<td><img src="./assets/icons/js.svg" alt="javascript icon" /></td>
+<td><img src="./assets/icons/vuejs.svg" alt="vuejs icon" /></td>
+<td><img src="./assets/icons/scss.svg" alt="scss icon" /></td>
+</tr>
+</table>
 </div>
 
 <!-- Most Used Languages analytics -->
