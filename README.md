@@ -1,20 +1,23 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Nrishinghananda+Roy;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
-<img src="./assets/img/programming1.webp" alt="A software engineer is writing code" />
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=fd1c7a&icon_color=33ed98&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nrishinghananda Roy's Github Stats" />
-<img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Nrishinghananda Roy's github activity graph" />
-<br>
+<!-- Hero Section -->
+<p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Nrishinghananda Roy's github activity graph" /></p>
 
 <!-- Profile Views -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=royrustdev&label=Profile%20views&color=0e75b6&style=flat" alt="royrustdev" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=royrustdev&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
+<a href="https://twitter.com/royrustdev" target="_blank">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/royrustdev?color=blue&logo=Twitter&style=flat-square">
+</a>
+<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/royrustdev?logo=Reddit&style=flat-square">
+</a>
+
+</p>
 
 # I'm a
 
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
-
-<!-- Skill Section -->
-
-## My Skills
 
 <!-- Skills as a table -->
 <table>
@@ -38,8 +41,12 @@
 </tr>
 </table>
 
-<!-- Most Used Languages analytics -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages analytics" />
+<!-- Github Stats, coding streak, Most used languages analytics-->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+</p>
 
 ---
 
@@ -64,15 +71,21 @@
 
 📫 How to reach me: **royrustdev@gmail.com**
 
----
-
+<br />
 <!-- Contact Section -->
 
-## Contact Me
+<p align="center">
+<a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
+<img src="./assets/icons/linkedin.svg" alt="my linkedin account" />
+</a>
+<a href="https://twitter.com/royrustdev" target="_blank">
+<img src="./assets/icons/twitter.svg" alt="my linkedin account" />
+</a>
+<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
+<img src="./assets/icons/reddit.svg" alt="my linkedin account" />
+</a>
+</p>
 
-[![A link to my linkedin account](./assets/icons/linkedin.svg)](https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/)
-[![A link to my Twitter account](./assets/icons/twitter.svg)](https://twitter.com/royrustdev)
-
-**Thank You for visiting my profile** 🙏
+<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
 
 ---
