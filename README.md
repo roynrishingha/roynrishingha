@@ -1,7 +1,7 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Nrishinghananda+Roy;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
 <!-- Hero Section -->
-<p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Nrishinghananda Roy's github activity graph" /></p>
+<p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Nrishinghananda Roy's github activity graph" /><img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Github Snake Animation"></p>
 
 <!-- Profile Views -->
 <p align="center">
