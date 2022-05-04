@@ -79,10 +79,10 @@
 <img src="./assets/icons/linkedin.svg" alt="my linkedin account" />
 </a>
 <a href="https://twitter.com/royrustdev" target="_blank">
-<img src="./assets/icons/twitter.svg" alt="my linkedin account" />
+<img src="./assets/icons/twitter.svg" alt="my twitter account" />
 </a>
 <a href="https://www.reddit.com/user/royrustdev/" target="_blank">
-<img src="./assets/icons/reddit.svg" alt="my linkedin account" />
+<img src="./assets/icons/reddit.svg" alt="my reddit account" />
 </a>
 </p>
 
