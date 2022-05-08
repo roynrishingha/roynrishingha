@@ -23,21 +23,21 @@
 <table>
 <tr>
 <td><img src="./assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="./assets/icons/aws.svg" alt="AWS icon" /></td>
+<td><img src="./assets/icons/ts.svg" alt="Typescript icon" /></td>
+<td><img src="./assets/icons/bash.svg" alt="bash icon" /></td>
+<td><img src="./assets/icons/postgresql.svg" alt="postgreSQL icon" /></td>
+</tr>
+<tr>
 <td><img src="./assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="./assets/icons/jenkins.svg" alt="jenkins icon" /></td>
+<td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes icon" /></td>
+<td><img src="./assets/icons/aws.svg" alt="AWS icon" /></td>
+<td><img src="./assets/icons/github_actions.svg" alt="Github Actions icon" /></td>
 </tr>
 <tr>
-<td><img src="./assets/icons/kubernetes.svg" alt="kubernetes icon" /></td>
-<td><img src="./assets/icons/terraform.svg" alt="terraform icon" /></td>
-<td><img src="./assets/icons/postgresql.svg" alt="postgresql icon" /></td>
-<td><img src="./assets/icons/nodejs.svg" alt="nodejs icon" /></td>
-</tr>
-<tr>
-<td><img src="./assets/icons/ts.svg" alt="typescript icon" /></td>
-<td><img src="./assets/icons/js.svg" alt="javascript icon" /></td>
 <td><img src="./assets/icons/vuejs.svg" alt="vuejs icon" /></td>
+<td><img src="./assets/icons/nodejs.svg" alt="Node.js icon" /></td>
 <td><img src="./assets/icons/scss.svg" alt="scss icon" /></td>
+<td><img src="./assets/icons/js.svg" alt="javascript icon" /></td>
 </tr>
 </table>
 
@@ -69,7 +69,7 @@
 
 😄 Pronouns: **_He/His_**
 
-📫 How to reach me: **royrustdev@gmail.com**
+📫 How to reach me: **[royrustdev.com](https://royrustdev.com)**
 
 <br />
 <!-- Contact Section -->
