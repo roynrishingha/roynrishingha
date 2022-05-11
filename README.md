@@ -72,9 +72,10 @@
 📫 How to reach me: **[royrustdev.com](https://royrustdev.com)**
 
 <br />
-<!-- Dynamic Quotes -->
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=jolly&animation=grow_out_in&layout=samuel&font=Redressed)
+<!-- Random Quote -->
+<p align="center">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=jolly" alt="Random Quote" />
+</p>
 
 <!-- Contact Section -->
 ## Connect with Me
