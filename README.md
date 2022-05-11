@@ -1,7 +1,7 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hello+I'm+Nrishinghananda+Roy;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+[![Welcome](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=Hello%2C+I'm+Nrishinghananda+Roy;Welcome+To+My+Github+Profile)](https://royrustdev.com/)
 
 <!-- Hero Section -->
-<p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Nrishinghananda Roy's github activity graph" /><img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Github Snake Animation"></p>
+<p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=080441&color=fd1cdf&line=ee1cfd&point=33eb98&area_color=ee1cfd&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" /><img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Github Snake Animation"></p>
 
 <!-- Profile Views -->
 <p align="center">
@@ -15,9 +15,9 @@
 
 </p>
 
-# I'm a
+# I'm
 
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;DevOps+Engineer;AWS+Developer+Associate)](https://git.io/typing-svg)
+[![My Roles](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=A+Software+Engineer;A+DevOps+Engineer;Now+Learning+AWS)](https://royrustdev.com/)
 
 <!-- Skills as a table -->
 <table>
@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=20&center=true&vCenter=true&color=%33ed98&lines=Thanks+For+Visiting+My+Profile+🙏;Have+A+Great+Day+!!!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=EE1CFD&lines=Thanks+For+Visiting+My+Profile+🙏;Please+Star+This+Repository;Have+A+Great+Day+!!!" />
 </p>
 
 <p align="center">Created with ❤️ by royrustdev. Check My Other Projects 👉 <a href="https://github.com/royrustdev?tab=repositories">here</a></p>
