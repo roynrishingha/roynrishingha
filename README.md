@@ -1,4 +1,4 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Nrishinghananda+Roy;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hello+I'm+Nrishinghananda+Roy;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 
 <!-- Hero Section -->
 <p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&theme=react-dark" alt="Nrishinghananda Roy's github activity graph" /><img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Github Snake Animation"></p>
@@ -46,6 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=I%20have%20written" alt="Most Used Languages analytics" width="700"/>
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=jolly" alt="Random Quote" width="700" />
 </p>
 
 <p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
@@ -72,14 +73,12 @@
 📫 How to reach me: **[royrustdev.com](https://royrustdev.com)**
 
 <br />
-<!-- Random Quote -->
+
 <p align="center">
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=jolly" alt="Random Quote" />
+<img src="./assets/img/coding3.gif" width="700" alt="programming gif image"/>
 </p>
 
 <!-- Contact Section -->
-## Connect with Me
-
 <p align="center">
 <a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
 <img src="./assets/icons/linkedin.svg" alt="my linkedin account" />
@@ -93,6 +92,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+For+Visiting+My+Profile+🙏;Have+A+Great+Day+!!!&color=%33ed98" /></p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=20&center=true&vCenter=true&color=%33ed98&lines=Thanks+For+Visiting+My+Profile+🙏;Have+A+Great+Day+!!!" />
+</p>
 
 <p align="center">Created with ❤️ by royrustdev. Check My Other Projects 👉 <a href="https://github.com/royrustdev?tab=repositories">here</a></p>
