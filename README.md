@@ -61,9 +61,9 @@
 
 🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
 
-👯 I’m looking to _collaborate_ on **Rust** projects
+👯 I’m looking to _collaborate_ on `Rust` projects
 
-🤔 I’m looking for help with **Rust** and **AWS**
+🤔 I’m looking for `pair programming`
 
 💬 Ask me about **Rust**, **DevOps** and **AWS**
 
@@ -72,7 +72,12 @@
 📫 How to reach me: **[royrustdev.com](https://royrustdev.com)**
 
 <br />
+<!-- Dynamic Quotes -->
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=jolly&animation=grow_out_in&layout=samuel&font=Redressed)
+
 <!-- Contact Section -->
+## Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
@@ -87,5 +92,3 @@
 </p>
 
 <p align="center"><b>Thank You for visiting my profile 🙏</b></p>
-
----
