@@ -48,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
 </p>
 
----
+<p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
 
 <!-- About Me Section -->
 
