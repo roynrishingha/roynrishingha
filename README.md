@@ -45,7 +45,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Most Used Languages analytics" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=I%20have%20written" alt="Most Used Languages analytics" width="700"/>
 </p>
 
 <p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
@@ -92,7 +92,7 @@
 </a>
 </p>
 
-<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
-<br />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+You+For+Visiting+My+Profile+🙏;Have+A+Great+Day+!!!&color=%33ed98" /></p>
 
-Created with ❤️ by royrustdev. Check My Other Projects 👉 [here](https://github.com/royrustdev?tab=repositories) !
+<p align="center">Created with ❤️ by royrustdev. Check My Other Projects 👉 <a href="https://github.com/royrustdev?tab=repositories">here</a></p>
