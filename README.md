@@ -58,6 +58,10 @@
 <!-- Coding GIF image -->
 <img align="right" width="300" height="300" src="./assets/img/coding.gif" alt="Coding gif image" />
 
+<br />
+
+<br />
+
 🔭 I’m currently working on **Rust** and **DevOps**
 
 🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
