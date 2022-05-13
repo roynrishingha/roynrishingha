@@ -53,6 +53,15 @@
 
 <!-- About Me Section -->
 
+<!-- What I offer -->
+
+## Why Me ?
+
+- I can create **Blazingly Fast** and **Secure** backend with `Rust`
+- I can implement `CI/CD pipeline` and containarize your application
+- I'm always **learning new** technologies and **improving** myself
+- I'm an **autodidact** learner, so I teach myself **effectively**
+
 ## About Me
 
 <!-- Coding GIF image -->
@@ -61,6 +70,8 @@
 <br />
 
 <br />
+
+😄 Pronouns: **_He/His_**
 
 🔭 I’m currently working on **Rust** and **DevOps**
 
@@ -72,7 +83,7 @@
 
 💬 Ask me about **Rust**, **DevOps** and **AWS**
 
-😄 Pronouns: **_He/His_**
+🌏 I'm Interested in `Cloud Native` development and I'm `open` for new opportunities.
 
 📫 How to reach me: **[royrustdev.com](https://royrustdev.com)**
 
