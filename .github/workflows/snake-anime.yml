@@ -1,10 +1,10 @@
-# This workflow runs every 6 hours. Then Push the svg file to output branch.
+# This workflow runs every day. Then Push the svg file to output branch.
 
 name: Snake Animation of Contribution
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
 
   workflow_dispatch:
 
