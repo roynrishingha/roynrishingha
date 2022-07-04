@@ -17,7 +17,7 @@
 
 # I'm
 
-[![My Roles](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=A+Software+Engineer;A+DevOps+Engineer;Now+Learning+AWS)](https://royrustdev.com/)
+[![My Roles](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=A+Rust+Software+Engineer;Open+Source+Contributor;Looking+for+Work+Opportunity)](https://royrustdev.com/)
 
 <!-- Skills as a table -->
 <table>
@@ -43,10 +43,8 @@
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=royrustdev&theme=jolly" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=I%20have%20written" alt="Most Used Languages analytics" width="700"/>
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=jolly" alt="Random Quote" width="700" />
+<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for royrustdev" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=I%20have%20written" alt="Most Used Languages analytics of royrustdev" width="700"/>
 </p>
 
 <p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
@@ -57,10 +55,8 @@
 
 ## Why Me ?
 
-- I can create **Blazingly Fast** and **Secure** backend with `Rust`
-- I can implement `CI/CD pipeline` and containarize your application
-- I'm always **learning new** technologies and **improving** myself
-- I'm an **autodidact** learner, so I teach myself **effectively**
+- I can create **Blazingly Fast** and **Secure** software with `Rust`
+- I have the tenacity and **smart-working** mentality to pick up new technologies quickly & **effectively**.
 
 ## About Me
 
@@ -73,17 +69,17 @@
 
 😄 Pronouns: **_He/His_**
 
-🔭 I’m currently working on **Rust** and **DevOps**
+🔭 I’m currently working on **Open Source Rust Projects**
 
-🌱 I’m currently learning **Rust**, **AWS** & **DevOps**
+🌱 I’m currently learning **How to effectively contribute in Open Source Projects**
 
-👯 I’m looking to _collaborate_ on `Rust` projects
+👯 I’m looking to _contribute_ on `Rust` projects
 
-🤔 I’m looking for `pair programming`
+🤔 I’m looking for `Rust Software Engineering Job`
 
 💬 Ask me about **Rust**, **DevOps** and **AWS**
 
-🌏 I'm Interested in `Cloud Native` development and I'm `open` for new opportunities.
+🌏 I'm Interested in `Cloud Native` development and I'm `open` for _new opportunities_.
 
 📫 How to reach me: **[royrustdev.com](https://royrustdev.com)**
 
@@ -101,9 +97,7 @@
 <a href="https://twitter.com/royrustdev" target="_blank">
 <img src="./assets/icons/twitter.svg" alt="my twitter account" />
 </a>
-<a href="https://www.reddit.com/user/royrustdev/" target="_blank">
-<img src="./assets/icons/reddit.svg" alt="my reddit account" />
-</a>
+<a href="mailto:royrustdev@gmail.com"><img src="./assets/icons/gmail.svg" alt="royrustdev@gmail.com" /></a>
 </p>
 
 <p align="center">
