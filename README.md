@@ -17,27 +17,33 @@
 
 # I'm
 
-[![My Roles](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=A+Rust+Software+Engineer;Open+Source+Contributor;Looking+for+Work+Opportunity)](https://royrustdev.com/)
+[![My Roles](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=A+Rust+Software+Engineer;An+Open+Source+Contributor;Looking+for+Work+Opportunity)](https://royrustdev.com/)
 
 <!-- Skills as a table -->
 <table>
 <tr>
-<td><img src="./assets/icons/rust.svg" alt="Rust icon" /></td>
-<td><img src="./assets/icons/ts.svg" alt="Typescript icon" /></td>
-<td><img src="./assets/icons/bash.svg" alt="bash icon" /></td>
-<td><img src="./assets/icons/postgresql.svg" alt="postgreSQL icon" /></td>
+<td><img src="./assets/icons/rust.svg" alt="Rust" /></td>
+<td><img src="./assets/icons/wasm.svg" alt="web assembly" /></td>
+<td><img src="./assets/icons/ts.svg" alt="Typescript" /></td>
+<td><img src="./assets/icons/bash.svg" alt="shell script" /></td>
 </tr>
 <tr>
-<td><img src="./assets/icons/docker.svg" alt="Docker icon" /></td>
-<td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes icon" /></td>
-<td><img src="./assets/icons/aws.svg" alt="AWS icon" /></td>
-<td><img src="./assets/icons/github_actions.svg" alt="Github Actions icon" /></td>
+<td><img src="./assets/icons/docker.svg" alt="Docker" /></td>
+<td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes" /></td>
+<td><img src="./assets/icons/aws.svg" alt="AWS" /></td>
+<td><img src="./assets/icons/github_actions.svg" alt="Github Actions" /></td>
 </tr>
 <tr>
-<td><img src="./assets/icons/vuejs.svg" alt="vuejs icon" /></td>
-<td><img src="./assets/icons/nodejs.svg" alt="Node.js icon" /></td>
-<td><img src="./assets/icons/scss.svg" alt="scss icon" /></td>
-<td><img src="./assets/icons/js.svg" alt="javascript icon" /></td>
+<td><img src="./assets/icons/postgresql.svg" alt="postgreSQL" /></td>
+<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
+<td><img src="./assets/icons/mongodb.svg" alt="mongodb" /></td>
+<td><img src="./assets/icons/manjaro.svg" alt="manjaro linux" /></td>
+</tr>
+<tr>
+<td><img src="./assets/icons/nodejs.svg" alt="Node.js" /></td>
+<td><img src="./assets/icons/scss.svg" alt="scss" /></td>
+<td><img src="./assets/icons/js.svg" alt="javascript" /></td>
+<td><img src="./assets/icons/vuejs.svg" alt="vuejs" /></td>
 </tr>
 </table>
 
