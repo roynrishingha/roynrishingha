@@ -60,7 +60,8 @@
 <!-- What can I offer -->
 ## Why Me ?
 
-- I can create **Blazingly Fast** and **Secure** software with `Rust`
+- I build **Secure**, **Blazingly Fast** & **scalable** software using `Rust`.
+- I like to write **efficient**, **secure**, **clean** and **documented** software, by using _test driven development (TDD)_ with a continuous integration environment.
 - I have the tenacity and **smart-working** mentality to pick up new technologies quickly & **effectively**.
 
 <!-- About Me Section -->
