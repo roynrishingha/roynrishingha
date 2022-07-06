@@ -3,14 +3,15 @@
 <!-- Hero Section -->
 <p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" />
 <!-- Github Stats, coding streak, Most used languages analytics-->
-<img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=080441&color=fd1cdf&line=ee1cfd&point=33eb98&area_color=ee1cfd&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=080441&color=fd1cdf&line=ee1cfd&point=33eb98&area_color=ee1cfd&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
 <img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for royrustdev" width="700"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=I%20have%20written" alt="Most Used Languages analytics of royrustdev" width="700"/>
+<img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Contribution Snake Animation" width="700" />
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=royrustdev&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
+<img src="https://komarev.com/ghpvc/?username=royrustdev&label=Github%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
 <a href="https://twitter.com/royrustdev" target="_blank">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/royrustdev?color=blue&logo=Twitter&style=flat-square">
 </a>
@@ -51,9 +52,6 @@
 <td><img src="./assets/icons/vuejs.svg" alt="vuejs" /></td>
 </tr>
 </table>
-
-<p align="center">
-<img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Github Contribution Snake Animation" /></p>
 
 <p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
 
