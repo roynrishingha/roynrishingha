@@ -6,7 +6,7 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=080441&color=fd1cdf&line=ee1cfd&point=33eb98&area_color=ee1cfd&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
 <img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for royrustdev" width="700"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=I%20have%20written" alt="Most Used Languages analytics of royrustdev" width="700"/>
-<img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Contribution Snake Animation" width="700" />
+<img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Contribution Snake Animation" width="700" style="background:#ffffff;" />
 </p>
 
 <!-- Profile Views -->
