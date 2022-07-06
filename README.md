@@ -1,7 +1,7 @@
 [![Welcome](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=Hello%2C+I'm+Nrishinghananda+Roy;Welcome+To+My+Github+Profile)](https://royrustdev.com/)
 
 <!-- Hero Section -->
-<p align="center"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" />
+<p align="center" style="background:#ffffff;"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" />
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=080441&color=fd1cdf&line=ee1cfd&point=33eb98&area_color=ee1cfd&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
 <img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for royrustdev" width="700"/>
