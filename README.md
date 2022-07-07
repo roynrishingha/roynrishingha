@@ -62,9 +62,7 @@
 - I like to write **efficient**, **secure**, **clean** and **documented** software, by using _test driven development (TDD)_ with a continuous integration environment.
 - I have the tenacity and **smart-working** mentality to pick up new technologies quickly & **effectively**.
 
-<!-- About Me Section -->
-## About Me
-
+## At a Glance
 <!-- Coding GIF image -->
 <img align="right" width="300" height="300" src="./assets/img/coding.gif" alt="Coding gif image" />
 
@@ -86,7 +84,23 @@
 
 🌏 I'm Interested in `Cloud Native` development and I'm `open` for _new opportunities_.
 
-📫 How to reach me: **[royrustdev.com](https://royrustdev.com)**
+<!-- About Me Section -->
+## About Me
+
+**I began** coding in February 2020 during the outbreak of covid-19 pandemic at the age of 20. 
+**I started** as a frontend developer and learned vue.js, then studied backend with Node.js, Express.js and MongoDB. I liked working on the frontend, but I realized that _backend was my true passion_.
+Nodejs was not satisfactory to me, so **I started learning** `Rust`. 
+
+**Rust** revealed the true power and responsibility of a programmer to me.
+I study _mathematics_, _algorithms_, and _cryptography_ in my leisure time. I **love** _abstract algebra_, _discrete mathematics_, _number theory_, _cryptography_
+
+**I dream** to pursue a career in **Software Engineering**, but I have been unable to access a formal university education due to lack of financial resources.
+
+So **I am using** _free & open-source resources_ like **MIT Open-courseware**, **Coursera** and other university lectures to teach myself what I want to learn.
+
+**I love to share** _my experiences and knowledge_ with others. I enjoy to ***inspire***, ***motivating*** other people.
+
+📫 Read more here: **[royrustdev.com](https://royrustdev.com)**
 
 <br />
 
