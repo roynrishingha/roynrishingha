@@ -110,7 +110,7 @@ So **I am using** _free & open-source resources_ like **MIT Open-courseware**, *
 
 <!-- Contact Section -->
 <p align="center">
-<a href="https://www.linkedin.com/in/nrishinghananda-roy-b5ab90230/" target="_blank">
+<a href="https://www.linkedin.com/in/royrustdev" target="_blank">
 <img src="./assets/icons/linkedin.svg" alt="my linkedin account" />
 </a>
 <a href="https://twitter.com/royrustdev" target="_blank">
