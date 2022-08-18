@@ -1,12 +1,7 @@
-[![Welcome](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=Hello%2C+I'm+Nrishinghananda+Roy;Welcome+To+My+Github+Profile)](https://royrustdev.com/)
-
-<!-- Hero Section -->
-<p align="center" style="background:#ffffff;"><img src="./assets/img/programming1.webp" alt="A software engineer is writing code" width="700" />
-<!-- Github Stats, coding streak, Most used languages analytics-->
-<img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=080441&color=fd1cdf&line=ee1cfd&point=33eb98&area_color=ee1cfd&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for royrustdev" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=I%20have%20written" alt="Most Used Languages analytics of royrustdev" width="700"/>
-<img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Contribution Snake Animation" width="700" style="background:#ffffff;" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&layout=compact" alt="GitHub Stats for royrustdev" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=vue-dark&custom_title=I%20have%20written" alt="Most Used Languages analytics of royrustdev" width="700"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=273849&color=41b883&line=41b883&point=41b883&area_color=41b883&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
 </p>
 
 <!-- Profile Views -->
@@ -18,51 +13,46 @@
 <a href="https://www.reddit.com/user/royrustdev/" target="_blank">
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/royrustdev?logo=Reddit&style=flat-square">
 </a>
-
 </p>
 
-# I'm
+## Why Me ?
 
-[![My Roles](https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=EE1CFD&center=true&vCenter=true&lines=A+Rust+Software+Engineer;An+Open+Source+Contributor;Looking+for+Work+Opportunity)](https://royrustdev.com/)
+- I like to write **efficient**, **secure**, **clean** and **documented** software, by using _test driven development (TDD)_ with a continuous integration environment.
+- I have the tenacity and **smart-working** mentality to pick up new technologies quickly & **effectively**.
+
+<br />
 
 <!-- Skills as a table -->
-<table>
+<table align="center">
 <tr>
 <td><img src="./assets/icons/rust.svg" alt="Rust" /></td>
-<td><img src="./assets/icons/wasm.svg" alt="web assembly" /></td>
-<td><img src="./assets/icons/ts.svg" alt="Typescript" /></td>
-<td><img src="./assets/icons/bash.svg" alt="shell script" /></td>
+<td><img src="./assets/icons/postgresql.svg" alt="postgreSQL" /></td>
+<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
+<td><img src="./assets/icons/lua.svg" alt="Lua language" /></td>
 </tr>
 <tr>
 <td><img src="./assets/icons/docker.svg" alt="Docker" /></td>
 <td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes" /></td>
-<td><img src="./assets/icons/aws.svg" alt="AWS" /></td>
-<td><img src="./assets/icons/github_actions.svg" alt="Github Actions" /></td>
+<td><img src="./assets/icons/github_actions.svg" alt="ci-cd pipeline" /></td>
+<td><img src="./assets/icons/fedora.svg" alt="fedora os" /></td>
 </tr>
 <tr>
-<td><img src="./assets/icons/postgresql.svg" alt="postgreSQL" /></td>
-<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
-<td><img src="./assets/icons/mongodb.svg" alt="mongodb" /></td>
-<td><img src="./assets/icons/manjaro.svg" alt="manjaro linux" /></td>
-</tr>
-<tr>
-<td><img src="./assets/icons/nodejs.svg" alt="Node.js" /></td>
-<td><img src="./assets/icons/scss.svg" alt="scss" /></td>
-<td><img src="./assets/icons/js.svg" alt="javascript" /></td>
+<td><img src="./assets/icons/wasm.svg" alt="web assembly" /></td>
+<td><img src="./assets/icons/nodejs.svg" alt="nodejs" /></td>
+<td><img src="./assets/icons/vite.svg" alt="vite" /></td>
 <td><img src="./assets/icons/vuejs.svg" alt="vuejs" /></td>
+</tr>
+<tr>
+<td><img src="./assets/icons/ts.svg" alt="Typescript" /></td>
+<td><img src="./assets/icons/js.svg" alt="javascript" /></td>
+<td><img src="./assets/icons/scss.svg" alt="scss" /></td>
+<td><img src="./assets/icons/css.svg" alt="css" /></td>
 </tr>
 </table>
 
-<p align="center"><img src="./assets/img/coding2.gif" alt="coding animation" width="700"/></p>
+<br />
 
-<!-- What can I offer -->
-## Why Me ?
-
-- I build **Secure**, **Blazingly Fast** & **scalable** software using `Rust`.
-- I like to write **efficient**, **secure**, **clean** and **documented** software, by using _test driven development (TDD)_ with a continuous integration environment.
-- I have the tenacity and **smart-working** mentality to pick up new technologies quickly & **effectively**.
-
-## At a Glance
+## About Me
 <!-- Coding GIF image -->
 <img align="right" width="300" height="300" src="./assets/img/coding.gif" alt="Coding gif image" />
 
@@ -74,39 +64,25 @@
 
 🔭 I’m currently working on **Open Source Rust Projects**
 
-🌱 I’m currently learning **How to effectively contribute in Open Source Projects**
+🌱 I’m currently learning **Data-Structures & Algorithm, and System Design**
 
-👯 I’m looking to _contribute_ on `Rust` projects
+👯 I’m looking to _contribute_ on **rust-clippy**
 
 🤔 I’m looking for `Rust Software Engineering Job`
 
-💬 Ask me about **Rust**, **DevOps** and **AWS**
+💬 Ask me about **Rust**
 
-🌏 I'm Interested in `Cloud Native` development and I'm `open` for _new opportunities_.
+🌏 I'm Interested in `Cloud Native` development and I'm `open` for **new opportunities**.
 
-<!-- About Me Section -->
-## About Me
-
-**I began** coding in February 2020 during the outbreak of covid-19 pandemic at the age of 20. 
-**I started** as a frontend developer and learned vue.js, then studied backend with Node.js, Express.js and MongoDB. I liked working on the frontend, but I realized that _backend was my true passion_.
-Nodejs was not satisfactory to me, so **I started learning** `Rust`. 
-
-**Rust** revealed the true power and responsibility of a programmer to me.
-I study _mathematics_, _algorithms_, and _cryptography_ in my leisure time. I **love** _abstract algebra_, _discrete mathematics_, _number theory_, _cryptography_
-
-**I dream** to pursue a career in **Software Engineering**, but I have been unable to access a formal university education due to lack of financial resources.
-
-So **I am using** _free & open-source resources_ like **MIT Open-courseware**, **Coursera** and other university lectures to teach myself what I want to learn.
-
-**I love to share** _my experiences and knowledge_ with others. I enjoy to ***inspire***, ***motivating*** other people.
-
-📫 Read more here: **[royrustdev.com](https://royrustdev.com)**
+📫 Check my website: **[royrustdev.com](https://royrustdev.com)**
 
 <br />
 
 <p align="center">
-<img src="./assets/img/coding3.gif" width="700" alt="programming gif image"/>
+<img src="https://github.com/royrustdev/royrustdev/blob/output/snake-anime.svg" alt="Contribution Snake Animation" width="700" style="background:#ffffff;" />
 </p>
+
+<br />
 
 <!-- Contact Section -->
 <p align="center">
