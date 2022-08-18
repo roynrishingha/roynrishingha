@@ -62,15 +62,13 @@
 
 😄 Pronouns: **_He/His_**
 
-🔭 I’m currently working on **Open Source Rust Projects**
+💬 Ask me about **Rust**
+
+🤔 I’m looking for `Remote Job`
+
+🔭 I’m currently working on **rust-clippy**
 
 🌱 I’m currently learning **Data-Structures & Algorithm, and System Design**
-
-👯 I’m looking to _contribute_ on **rust-clippy**
-
-🤔 I’m looking for `Rust Software Engineering Job`
-
-💬 Ask me about **Rust**
 
 🌏 I'm Interested in `Cloud Native` development and I'm `open` for **new opportunities**.
 
