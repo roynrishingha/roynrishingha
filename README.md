@@ -66,11 +66,11 @@
 
 🤔 I’m looking for `Remote Job`
 
-🔭 I’m currently working on **rust-clippy**
+🔭 I’m currently contributing to **rust-clippy**
 
-🌱 I’m currently learning **Data-Structures & Algorithm, and System Design**
+🌱 I’m currently learning **Rust, Data-Structures & Algorithm, and System Design**
 
-🌏 I'm Interested in `Cloud Native` development and I'm `open` for **new opportunities**.
+🌏 I'm Interested in `Cloud Native, dev-tools` and I'm `open` for **new opportunities**.
 
 📫 Check my website: **[royrustdev.com](https://royrustdev.com)**
 
@@ -94,7 +94,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=EE1CFD&lines=Thanks+For+Visiting+My+Profile+🙏;Please+Star+This+Repository;Have+A+Great+Day+!!!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=EE1CFD&lines=Thanks+For+Visiting+My+Profile+🙏;Have+A+Great+Day+!!!" />
 </p>
 
 <p align="center">Created with ❤️ by royrustdev. Check My Other Projects 👉 <a href="https://github.com/royrustdev?tab=repositories">here</a></p>
