@@ -53,9 +53,10 @@
 <br />
 
 ## About Me
-<!-- Coding GIF image -->
-<img align="right" width="300" height="300" src="./assets/img/coding.gif" alt="Coding gif image" />
+<!-- Coding GIF image
+<img align="right" width="300" height="300" src="./assets/img/coding.gif" alt="Coding gif image" /> -->
 
+<img align="right" width="240" height="240" src="./assets/img/royrustdev.svg" alt="royrustdev logo" />
 <br />
 
 <br />
@@ -66,7 +67,7 @@
 
 🤔 I’m looking for `Remote Job`
 
-🔭 I’m currently contributing to **rust-clippy**
+🦀 I’m currently contributing to **rust-clippy**
 
 🌱 I’m currently learning **Rust, Data-Structures & Algorithm, and System Design**
 
