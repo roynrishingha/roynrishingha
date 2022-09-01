@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&layout=compact" alt="GitHub Stats for royrustdev" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=vue-dark&custom_title=I%20have%20written" alt="Most Used Languages analytics of royrustdev" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=vue-dark&custom_title=I%20have%20written&langs_count=10&exclude_repo=royrustdev.github.io,zola-site&hide=html,css,scss,js" alt="Most Used Languages analytics of royrustdev" width="700"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=273849&color=41b883&line=41b883&point=41b883&area_color=41b883&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
 </p>
 
