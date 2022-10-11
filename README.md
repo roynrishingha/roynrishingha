@@ -1,17 +1,17 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&layout=compact&hide_border=true" alt="GitHub Stats for royrustdev" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=vue-dark&custom_title=My%20Local%20Repositories'%20Stats&langs_count=10&hide_border=true&hide=html,javascript,css,lua,typescript" alt="Most Used Languages analytics of royrustdev" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=vue-dark&custom_title=My%20Local%20Repositories'%20Stats&langs_count=10&hide_border=true&hide=html,css,lua" alt="Most Used Languages analytics of royrustdev" width="700"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=273849&color=41b883&line=41b883&point=41b883&area_color=41b883&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
 </p>
 
-## What I do ?
+## I am 
 
-I write **efficient**, **secure**, **clean** and **documented** code by using **Agile Methodologies**
+creating a better world by developing softwares.
 
 
 ## Why Me ?
 
-- I'm committed to bring significant **values** to the **project** by utilizing my **skills**.
+- focused and enthusiastic software engineer with a keen interest in webassembly, cloud native, container technology & backend development
 
 - I have the **tenacity** and **smart-working** mentality to pick up required technologies **effectively** to make the product better.
 
@@ -24,18 +24,18 @@ I write **efficient**, **secure**, **clean** and **documented** code by using **
 <table align="center">
 <tr>
 <td><img src="./assets/icons/rust.svg" alt="Rust"/></td>
-<td><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" /></td>
-<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
-</tr>
-<tr>
 <td><img src="./assets/icons/wasm.svg" alt="wasm"/></td>
-<td><img src="./assets/icons/docker.svg" alt="Docker" /></td>
 <td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes" /></td>
 </tr>
 <tr>
-<td><img src="./assets/icons/dagger.png" alt="ci-cd" /></td>
+<td><img src="./assets/icons/docker.svg" alt="Docker" /></td>
+<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
+<td><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" /></td>
+</tr>
+<tr>
 <td><img src="./assets/icons/aws.svg" alt="aws" /></td>
-<td><img src="./assets/icons/golang.svg" alt="golang" /></td>
+<td><img src="./assets/icons/vuejs.svg" alt="vuejs" /></td>
+<td><img src="./assets/icons/ts.svg" alt="typescript" /></td>
 </tr>
 </table>
 
