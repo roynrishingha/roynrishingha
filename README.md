@@ -4,10 +4,9 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=273849&color=41b883&line=41b883&point=41b883&area_color=41b883&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
 </p>
 
-## I am 
+## I am
 
 creating a better world by developing softwares.
-
 
 ## Why Me ?
 
@@ -24,18 +23,18 @@ creating a better world by developing softwares.
 <table align="center">
 <tr>
 <td><img src="./assets/icons/rust.svg" alt="Rust"/></td>
-<td><img src="./assets/icons/wasm.svg" alt="wasm"/></td>
-<td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes" /></td>
-</tr>
-<tr>
-<td><img src="./assets/icons/docker.svg" alt="Docker" /></td>
-<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
 <td><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" /></td>
+<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
 </tr>
 <tr>
-<td><img src="./assets/icons/aws.svg" alt="aws" /></td>
-<td><img src="./assets/icons/vuejs.svg" alt="vuejs" /></td>
+<td><img src="./assets/icons/docker.svg" alt="docker" /></td>
+<td><img src="./assets/icons/jenkins.svg" alt="jenkins" /></td>
+<td><img src="./assets/icons/ansible.svg" alt="ansible" /></td>
+</tr>
+<tr>
+<td><img src="./assets/icons/wasm.svg" alt="wasm" /></td>
 <td><img src="./assets/icons/ts.svg" alt="typescript" /></td>
+<td><img src="./assets/icons/vuejs.svg" alt="vuejs" /></td>
 </tr>
 </table>
 
@@ -53,15 +52,15 @@ creating a better world by developing softwares.
 
 🥦 I'm a **vegetarian**
 
-💬 Ask me about **Rust** & **WASM**
+💬 Ask me about **Rust**
 
 🚀 I’m looking for `collaboration in startup`
 
-🦀 I’m currently exploring rust webassembly ecosystem 
+🦀 I’m currently exploring rust backend & devops tools
 
 🧭 I'm Interested in **Backend**, **WASM**, **Startup**
 
-💡 I’m currently learning `WASM` and `container technology`
+💡 I’m currently learning `rust backend` & `database management`
 
 ⚓ Check my website: **[royrustdev.com](https://royrustdev.com)**
 
