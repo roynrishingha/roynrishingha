@@ -1,18 +1,16 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&layout=compact&hide_border=true" alt="GitHub Stats for royrustdev" width="700"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=vue-dark&custom_title=My%20Local%20Repositories'%20Stats&langs_count=10&hide_border=true&hide=html,css,lua" alt="Most Used Languages analytics of royrustdev" width="700"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=273849&color=41b883&line=41b883&point=41b883&area_color=41b883&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=royrustdev&bg_color=291B3E&color=ff64da&line=ff64da&point=fd1c7a&area_color=fd1c7a&area=true&hide_border=true" alt="Nrishinghananda Roy's Contribution Graph" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api?username=royrustdev&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact&hide_border=true&card_width=600&line_height=40" alt="GitHub Stats for royrustdev" width="700"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=royrustdev&show_icons=true&locale=en&layout=compact&theme=jolly&custom_title=My%20Local%20Repositories'%20Stats&langs_count=10&hide_border=true&hide=html,lua&line_height=40" alt="Most Used Languages analytics of royrustdev" width="700"/>
 </p>
 
 ## I am
 
-creating a better world by developing softwares.
+decentralizng the world by developing blockchain
 
 ## Why Me ?
 
-- focused and enthusiastic software engineer with a keen interest in webassembly, cloud native, container technology & backend development
-
-- I have the **tenacity** and **smart-working** mentality to pick up required technologies **effectively** to make the product better.
+I'm a linchpin with a growth mindset and problem solving attitude.
 
 <br />
 
@@ -23,24 +21,26 @@ creating a better world by developing softwares.
 <table align="center">
 <tr>
 <td><img src="./assets/icons/rust.svg" alt="Rust"/></td>
-<td><img src="./assets/icons/postgresql.svg" alt="PostgreSQL" /></td>
-<td><img src="./assets/icons/redis.svg" alt="redis" /></td>
+<td><img src="./assets/icons/substrate.svg" alt="parity substrate" /></td>
+<td><img src="./assets/icons/polkadot.svg" alt="polkadot" /></td>
 </tr>
 <tr>
 <td><img src="./assets/icons/docker.svg" alt="docker" /></td>
-<td><img src="./assets/icons/jenkins.svg" alt="jenkins" /></td>
-<td><img src="./assets/icons/ansible.svg" alt="ansible" /></td>
+<td><img src="./assets/icons/kubernetes.svg" alt="Kubernetes" /></td>
+<td><img src="./assets/icons/wasm.svg" alt="wasm" /></td>
 </tr>
 <tr>
-<td><img src="./assets/icons/wasm.svg" alt="wasm" /></td>
 <td><img src="./assets/icons/ts.svg" alt="typescript" /></td>
-<td><img src="./assets/icons/vuejs.svg" alt="vuejs" /></td>
+<td><img src="./assets/icons/react.svg" alt="react" /></td>
+<td><img src="./assets/icons/mongodb.svg" alt="mongodb" /></td>
 </tr>
 </table>
 
 <br />
 
 ## About Me
+
+### Rust Engineer | Substrate Developer | Blockchain Researcher
 
 <img align="right" width="200" height="200" src="./assets/img/royrustdev.svg" alt="royrustdev logo" />
 
@@ -52,15 +52,15 @@ creating a better world by developing softwares.
 
 🥦 I'm a **vegetarian**
 
-💬 Ask me about **Rust**
+💬 Ask me about **Rust**, **Substrate**, **Blockchain Development**
 
 🚀 I’m looking for `collaboration in startup`
 
-🦀 I’m currently exploring rust backend & devops tools
+🦀 I’m currently exploring substrate, Polkadot & Core-Blockchain Development
 
-🧭 I'm Interested in **Backend**, **WASM**, **Startup**
+🧭 I'm Interested in **Blockchain**, **Substrate**, **WASM**, **React**
 
-💡 I’m currently learning `rust backend` & `database management`
+💡 I’m currently learning `substrate` & `core blockchain development`
 
 ⚓ Check my website: **[royrustdev.com](https://royrustdev.com)**
 
@@ -77,7 +77,7 @@ creating a better world by developing softwares.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=33ED98&lines=Thanks+For+Visiting+My+Profile+🙏;Have+A+Great+Day+!!!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=22&center=true&vCenter=true&color=FD1C7A&lines=Thanks+For+Visiting+My+Profile+🙏;Have+A+Great+Day+!!!" />
 </p>
 
 <!-- Contact Section -->
