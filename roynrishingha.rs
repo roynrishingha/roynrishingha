@@ -1,4 +1,5 @@
-```rs
+#![allow(dead_code, unused_variables)]
+
 macro_rules! impl_traits {
     ($name:ident { $($field:ident : $type:ty),* $(,)? }) => {
         impl<'a> PassionateProgrammer for $name<'a> {
@@ -9,7 +10,7 @@ macro_rules! impl_traits {
                 println!("{} is consistently pushing his limits", self.name);
             }
         }
-        
+
         impl<'a> FastLearner for $name<'a> {
             fn learn_by_doing(&self) {
                 println!("{} learns by doing", self.name);
@@ -18,7 +19,7 @@ macro_rules! impl_traits {
                 println!("{} embraces feedback as a learning opportunity", self.name);
             }
         }
-        
+
         impl<'a> TeamPlayer for $name<'a> {
             fn collaborate_with_teammates(&self) {
                 println!("{} collaborates well with his teammates", self.name);
@@ -35,7 +36,7 @@ struct Nrishinghananda<'a> {
     website: &'a str,
 }
 
-impl_traits!(Nrishinghananda { 
+impl_traits!(Nrishinghananda {
     name: &'a str,
     core_skills: Vec<&'a str>,
     infra_skills: Vec<&'a str>,
@@ -43,14 +44,25 @@ impl_traits!(Nrishinghananda {
     website: &'a str,
 });
 
-
 fn main() {
     let roynrishingha = Nrishinghananda {
-        name : "Nrishinghananda Roy",
-        core_skills : vec!["Rust", "SurrealDB", "tokio",  "tracing", "warp", "actix-web", "Software Documentation", "Algorithms", "Data Structures"],
-        infra_skills : vec![ "Github Actions", "Docker", "AWS"],
-        basic_level_skills: vec!["Typescript", "Javascript", "Substrate"],
-        website : "roynrishingha.com"
+        name: "Nrishinghananda Roy",
+        core_skills: vec![
+            "Rust",
+            "actix-web",
+            "tokio",
+            "tracing",
+            "tonic",
+            "REST API",
+            "gRPC",
+            "PostgreSQL",
+            "Software Documentation",
+            "Algorithms",
+            "Data Structures",
+        ],
+        infra_skills: vec!["Github Actions", "Docker"],
+        basic_level_skills: vec!["Python", "Typescript", "Vue.js", "Substrate"],
+        website: "roynrishingha.com",
     };
 }
 
@@ -67,4 +79,3 @@ pub trait FastLearner {
 pub trait TeamPlayer {
     fn collaborate_with_teammates(&self);
 }
-```
