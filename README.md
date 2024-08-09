@@ -1,5 +1,5 @@
 👋 Greetings!
 
-I am Nrishinghananda Roy, a self-motivated software engineer with a primary focus on the Rust. Currently, I am honing my skills in backend development with Rust while also gaining proficiency in Typescript & React for projects in my current role. 
+Myself Nrishinghananda Roy, a self-motivated software engineer with a primary focus on the Rust language. Currently, I am honing my skills in backend development with Rust while also gaining proficiency in Python, Typescript & React for projects in my current job. 
 
-My passion lies in the Rust backend space. Specially to develop high-performance and cost-effective APIs. And I love contributing to open-source Rust projects.
+I'm primarily focused in the Rust backend space. Specially to develop high-performance and cost-effective APIs. And I often contribute into open-source Rust projects.
