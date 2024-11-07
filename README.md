@@ -1,14 +1,3 @@
-<h2 align="center">Passionate Rust Developer | Open-Source Contributor</h2>
+Hi, I’m **Nrishinghananda Roy**—a self-taught Rust developer with a passion for backend systems and a strong drive to learn and grow. My journey in tech wasn’t conventional. Growing up in rural India, I faced significant challenges, including limited access to resources and formal university education. But these obstacles fueled my determination, and I immersed myself in coding, with Rust quickly becoming my go-to language for its power, safety, and performance.
 
-I’m **Nrishinghananda Roy**, a passionate backend developer specializing in Rust, with a focus on building scalable, efficient, and impactful products. My core strength lies in leveraging the power of Rust to solve complex backend challenges, from system-level programming to high-performance web services.
-
-I thrive on creating well-architected, maintainable solutions that drive real-world value. I'm particularly enthusiastic about contributing to the **Rust open-source community**, where I can both learn from and collaborate with talented developers across the globe.
-
-**Why Rust?** Rust’s unique combination of memory safety, speed, and modern developer tools enables me to build secure, fast, and reliable systems. I’m committed to harnessing this technology to push boundaries and create innovative solutions.
-
-**What I’m looking for:**
-- Collaborations and opportunities in backend development with a focus on Rust.
-- Roles where I can contribute to **high-impact projects** and bring my technical expertise to create meaningful products.
-- Opportunities to engage with **open-source projects** and collaborate with like-minded professionals.
-
-Feel free to connect with me if you’re looking for someone who’s not just a developer, but a problem-solver with a strong passion for Rust and backend development. I’m always open to new challenges and learning experiences.
+My journey has taught me resilience and adaptability. I’m passionate about learning and giving back through open-source, where I connect with others who share my dedication. Excited to keep growing, building, and contributing to impactful projects in Rust and backend tech.
