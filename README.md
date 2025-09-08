@@ -1,11 +1,22 @@
-Hi 👋 I’m Nrishinghananda Roy.
+## Who I am
 
-For the past few years, I’ve been building backend systems at early-stage startups — mostly using Rust  🦀, sometimes Python and TypeScript. I’ve worked in small teams where the problems don’t come pre-packaged or neatly scoped. You figure it out, you ship it, and if it breaks under pressure, it’s on you to fix it. That kind of environment shaped how I think: you learn fast, you take responsibility, and you build things that won’t fall apart at 2 a.m.
+Hi 👋 I'm Nrishinghananda Roy, a Rust-focused software engineer with 3+ years building backend and systems software for startups in Germany, France, and India. I work best where speed and reliability both matter.
 
-I’ve always been drawn to the quieter parts of engineering — the layers that most people don’t see but that everything else depends on. Not flashy features or pixel-perfect UIs, but the systems behind the scenes: infrastructure, runtimes, observability, performance bottlenecks. I care about how things work — deeply, internally, at the level where correctness and clarity really matter.
+## What I do
 
-Over time, I’ve found myself diving deeper into the Rust ecosystem — contributing to tools like Clippy, exploring production-grade open source projects, and learning how large-scale systems are built with precision and care. It’s not easy work, but it’s the kind of work that holds up. And that’s what I’m here for — engineering that lasts.
+- Ship features end-to-end: from API design to infra deployment.
+- Replace slow code with fast Rust implementations.
+- Contribute to open-source Rust projects.
+- Build developer tools and system-level libraries.
 
-Right now, I’m focused on backend systems written in Rust — especially projects that build infrastructure for developers. I’m contributing to open-source projects, leveling up my skills, and learning how to solve problems. What drives me is the pursuit of mastery, not just “more experience” but deeper experience — the kind you earn by putting in the reps on real systems that serve real users.
 
-I’m not here to chase trends. I’m here to build things that work, with people who take their craft seriously. If that’s you too, I’d love to connect.
+## How I work
+
+- Take loosely defined problems and return working solutions.
+- Own my code in production—if it breaks, I know how to fix it.
+- Balance speed with reliability—ship quickly without cutting corners.
+- Care about performance, correctness, and clarity, not hype-driven features.
+
+## Where I’m going
+
+Deepening expertise in Rust systems and developer tooling (editors, runtimes). My focus is software that lasts—tools and infrastructure teams can rely on long after version one.
