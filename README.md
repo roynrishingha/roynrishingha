@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roynrishingha&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" width="700px" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=roynrishingha&theme=jolly&hide_border=false" width="700px" />
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=roynrishingha&limit=5&theme=jolly&combine_all_yearly_contributions=true" width="700px" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=roynrishingha&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&order_by=contributions&hide=B,A" width="700px" />
 </div>
-
 
 ## Who I am
 
@@ -26,4 +21,3 @@ Hi 👋 I'm Nrishinghananda Roy, a Rust-focused software engineer with 3+ years 
 - Balance speed with reliability—ship quickly without cutting corners.
 - Care about performance, correctness, and clarity, not hype-driven features.
 
----
