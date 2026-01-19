@@ -1,22 +1,30 @@
-## Who I am
+## Hi, I'm Nrishinghananda 👋
 
-Hi 👋 I'm Nrishinghananda Roy, a Rust-focused software engineer with 3+ years building backend and systems software for startups in Germany, France, and India. I work best where speed and reliability both matter.
+Software engineer specializing in Rust. Building high-performance systems, data pipelines, and distributed applications.
 
-## What I build
+### 🛠️ Tech Stack
 
-- Ship features end-to-end: from API design to infra deployment.
-- Replace slow code with fast Rust implementations.
-- Contribute to open-source Rust projects.
-- Build developer tools and system-level libraries.
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=rust,aws,postgresql,ts,vue,react,docker,linux" />
+</p>
 
+**Backend & Systems:** 
+Rust, Axum, Tokio, Tonic (gRPC), PostgreSQL, Apache Arrow, Apache DataFusion, REST APIs, Async programming, OpenTelemetry
 
-## How I work
+**Frontend:** 
+TypeScript,Vue 3, React, React Native  
 
-- Take loosely defined problems and return working solutions.
-- Own my code in production—if it breaks, I know how to fix it.
-- Balance speed with reliability—ship quickly without cutting corners.
-- Care about performance, correctness, and clarity, not hype-driven features.
+**Infrastructure:** 
+Docker, Amazon Web Services
 
-<!-- <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=roynrishingha&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&order_by=contributions&hide=B,A" width="700px" />
-</div> -->
+### 💼 Available For
+
+- **Full-time roles:** Remote Rust backend or full-stack positions
+- **Contract work:** Rust APIs, data pipelines, performance optimization, full-stack development
+- **Freelance projects:** Backend systems, mobile apps, web applications
+
+### 📫 Connect
+
+- Email: roynrishingha@gmail.com
+- LinkedIn: [linkedin.com/in/roynrishingha](https://linkedin.com/in/roynrishingha)
+- Website: [roynrishingha.com](https://roynrishingha.com)
