@@ -1,9 +1,5 @@
-# **Engineering Resilient Architecture**
+I'm **Nrishinghananda Roy**, a Rust Software Engineer & DevOps/SRE specializing in building systems that scale effortlessly.
 
-I am **Nrishinghananda Roy**, a Systems Engineer bridging the gap between **High-Performance Backends** and **Web Security**.
-
-Specializing in **Rust & Python**, I architect systems that are memory-safe by design and hardened against modern threat vectors. From low-level memory management to distributed cloud infrastructure, I build what lasts.
-
----
-
-**[roynrishingha.com](https://roynrishingha.com)**
+- 🦀 **Software Engineering:** Building highly concurrent, memory-safe backends and microservices in Rust (Tokio, Axum).
+- ☁️ **Cloud Architecture:** Provisioning and orchestrating resilient, distributed infrastructure on AWS using Terraform.
+- ☸️ **DevOps & SRE:** Managing Kubernetes clusters and designing robust observability pipelines (Prometheus, OpenTelemetry).
