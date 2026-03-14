@@ -1,5 +1,7 @@
-I'm **Nrishinghananda Roy**, a Rust Software Engineer & DevOps/SRE specializing in building systems that scale effortlessly.
+I'm Nrishinghananda Roy, a software engineer focused on building backend systems in Rust.
 
-- 🦀 **Software Engineering:** Building highly concurrent, memory-safe backends and microservices in Rust (Tokio, Axum).
-- ☁️ **Cloud Architecture:** Provisioning and orchestrating resilient, distributed infrastructure on AWS using Terraform.
-- ☸️ **DevOps & SRE:** Managing Kubernetes clusters and designing robust observability pipelines (Prometheus, OpenTelemetry).
+My work centers on concurrent systems, backend APIs, and secure infrastructure required to run them reliably in production.
+
+Primary tools: Rust, Axum, Tokio, PostgreSQL, AWS, Terraform.
+
+See my repositories for implementation details and experiments.
