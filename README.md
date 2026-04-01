@@ -1,7 +1,22 @@
-I'm Nrishinghananda Roy, a software engineer focused on building backend systems in Rust.
+**Infrastructure Engineer focused on AWS, Terraform, and Kubernetes. I work on designing systems that are reliable, secure, and built to scale.**
 
-My work centers on concurrent systems, backend APIs, and secure infrastructure required to run them reliably in production.
+### What I Work On
 
-Primary tools: Rust, Axum, Tokio, PostgreSQL, AWS, Terraform.
+- Engineering High-Performance backend systems using **Rust**.
+- Provisioning and managing cloud infrastructure using **Terraform** and **AWS**.
+- Operating **Kubernetes** clusters in production environments.
+- Designing **CI/CD** pipelines with built-in security and reliability.
+- Implementing observability with **Prometheus**, **Grafana**, and **Loki**.
+- Building automation and internal tooling using **Python** and **Bash**.
 
-See my repositories for implementation details and experiments.
+### Experience Highlights
+
+- Provisioned and managed 60+ EC2 instances across distributed environments using Terraform.  
+- Designed observability systems using Prometheus and Loki for production workloads.
+- Executed cloud migrations between providers without service disruption.
+- Reduced manual operational effort through automation and pipeline design.
+
+---
+
+**Actively seeking remote Rust Backend, DevOps, SRE, and Infrastructure Engineering roles.**
+
