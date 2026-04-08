@@ -1,4 +1,4 @@
-### What I Work On
+### I Work On
 
 - Writing production backend systems in **Rust** (Tokio, Axum, Tonic).
 - Reading and contributing to large open source Rust codebases.
@@ -6,7 +6,7 @@
 - Operating observability infrastructure: **Prometheus**, **Loki**, **OpenTelemetry**.
 - Provisioning cloud infrastructure with **Terraform** and **AWS**.
 
-### Things I Have Built
+### I Have Built
 
 - **[lsmdb](https://github.com/roynrishingha/lsmdb)** — a persistent key-value storage engine in Rust, published on crates.io. Implements Write-Ahead Logging, Bloom Filters, LRU block caching, and an arena-allocated SkipList.
 - Replaced a Java microservice with a Rust service on Axum and Tokio, rebuilding APIs and cutting response times from 3+ seconds to under 200ms.
