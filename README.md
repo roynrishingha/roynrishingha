@@ -1,5 +1,3 @@
-**Rust systems engineer focused on distributed infrastructure.**
-
 ### What I Work On
 
 - Writing production backend systems in **Rust** (Tokio, Axum, Tonic).
@@ -16,6 +14,8 @@
 
 ### Currently
 
-Contributing to **Rust Clippy** and studying distributed systems, storage engines, and query execution internals. Writing technical posts at **[roynrishingha.com](https://roynrishingha.com)** that go into production codebases at the source level.
+Contributing to **Rust Clippy** and studying distributed systems, storage engines, and query execution internals. 
 
-Looking for remote **Rust backend engineering** roles in observability, storage, or distributed systems.
+Writing technical posts at **[roynrishingha.com](https://roynrishingha.com)** that go into production codebases at the source level.
+
+Looking for remote **Rust backend engineering** roles. 
