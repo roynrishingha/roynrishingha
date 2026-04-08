@@ -1,22 +1,21 @@
-**Infrastructure Engineer focused on AWS, Terraform, and Kubernetes. I work on designing systems that are reliable, secure, and built to scale.**
+**Rust systems engineer focused on distributed infrastructure.**
 
 ### What I Work On
 
-- Engineering High-Performance backend systems using **Rust**.
-- Provisioning and managing cloud infrastructure using **Terraform** and **AWS**.
-- Operating **Kubernetes** clusters in production environments.
-- Designing **CI/CD** pipelines with built-in security and reliability.
-- Implementing observability with **Prometheus**, **Grafana**, and **Loki**.
-- Building automation and internal tooling using **Python** and **Bash**.
+- Writing production backend systems in **Rust** (Tokio, Axum, Tonic).
+- Reading and contributing to large open source Rust codebases.
+- Contributing lints to **Rust Clippy**, the official Rust compiler linting tool.
+- Operating observability infrastructure: **Prometheus**, **Loki**, **OpenTelemetry**.
+- Provisioning cloud infrastructure with **Terraform** and **AWS**.
 
-### Experience Highlights
+### Things I Have Built
 
-- Provisioned and managed 60+ EC2 instances across distributed environments using Terraform.  
-- Designed observability systems using Prometheus and Loki for production workloads.
-- Executed cloud migrations between providers without service disruption.
-- Reduced manual operational effort through automation and pipeline design.
+- **[lsmdb](https://github.com/roynrishingha/lsmdb)** — a persistent key-value storage engine in Rust, published on crates.io. Implements Write-Ahead Logging, Bloom Filters, LRU block caching, and an arena-allocated SkipList.
+- Replaced a Java microservice with a Rust service on Axum and Tokio, rebuilding APIs and cutting response times from 3+ seconds to under 200ms.
+- Provisioned and operated 60+ globally distributed nodes on AWS with Terraform, Prometheus, and Loki.
 
----
+### Currently
 
-**Actively seeking remote Rust Backend, DevOps, SRE, and Infrastructure Engineering roles.**
+Contributing to **Rust Clippy** and studying distributed systems, storage engines, and query execution internals. Writing technical posts at **[roynrishingha.com](https://roynrishingha.com)** that go into production codebases at the source level.
 
+Looking for remote **Rust backend engineering** roles in observability, storage, or distributed systems.
